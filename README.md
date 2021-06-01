@@ -58,22 +58,7 @@
   <summary>:zap: GitHub Stats</summary>
 
 
-<a href="https://github.com/dhanu0510/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.dhanu0510.vercel.app/api?username=dhanu0510&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
-</a>
-<a href="https://github.com/dhanu0510/github-readme-stats">
-  <!-- Change the `github-readme-stats.dhanu05101.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.dhanu0510.vercel.app/api/top-langs/?username=dhanu0510&layout=compact&theme=material-palenight" />
-</a>
 
-<a href="https://github.com/dhanu0510/github-readme-stats">
-  <!-- Change the `github-readme-stats.dhanu05101.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.dhanu0510.vercel.app/api/pin/?username=dhanu0510&repo=github-readme-stats&theme=material-palenight" />
-</a>    
-<a href="https://github.com/dhanu0510/dhanu0510.github.io">
-  <!-- Change the `github-readme-stats.dhanu05101.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.dhanu0510.vercel.app/api/pin/?username=dhanu0510&repo=dhanu0510.github.io&theme=material-palenight" />
-</a>
 
 
 
