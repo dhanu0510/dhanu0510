@@ -4,11 +4,6 @@
 <h3 align="center">I'm a Machine Learning Engineer.</h3>
 
 
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
 ## 🙋‍♂️ About Me
 
 - 🌱 I’m currently learning **Deep Learning using Tensorflow and Keras**
@@ -18,6 +13,13 @@
 - 👨‍💻 All of my projects are available at **(https://github.com/dhanu0510)**
 
 - 📫 How to reach me **dhananjaypatel.official@gmail.com**
+
+## Connect with me:
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/dhanu0510/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+
+</p>
 
 ## 🚀 Languages and Tools:
 
