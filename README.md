@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on 'MACHINE LEARNING'
 - 🌱 I’m currently learning 'DEEP LEARNING(Tensorflow)'
 
----
+
 
 ### Connect with me:
 
@@ -11,7 +11,7 @@
 
 <br />
 
----
+
 
 ### Languages and Tools:
 
