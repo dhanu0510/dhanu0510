@@ -24,5 +24,5 @@
 <br />
 
 
-[githubDhanu]: www.github.com/dhanu0510
+[githubDhanu]: https://www.github.com/dhanu0510
 [linkedin]: https://www.linkedin.com/in/dhanu0510/
