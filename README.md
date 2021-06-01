@@ -72,7 +72,7 @@
 
 <br/>
 
-<a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Dhananjay Patel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dhanu0510&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/SubhamRaoniar28/github-readme-stats" style = {float = 'left'}><img alt="Dhananjay Patel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dhanu0510&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Dhananjay Patel's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanu0510&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
