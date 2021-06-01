@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at **[github]**
 
-- 📫 How to reach me **dhananjaypatel.official@gmail.com**
+- 📫 How to reach me **[email]**
 
 ## Connect with me:
 <p align="left">
@@ -87,3 +87,4 @@
 [githubdhanu]: https://www.github.com/dhanu0510
 [linkedin]: https://www.linkedin.com/in/dhanu0510/
 [github]: https://www.github.com/dhanu0510/
+[email]: dhananjaypatel.official@gmail.com
