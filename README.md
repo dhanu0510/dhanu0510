@@ -55,9 +55,9 @@
 ---
 
 <summary> Top repo </summary>
-
+<a href = "www.github.com/dhanu0510/Skin-Disease-Detection"> 
 <img src = "https://github-readme-stats.vercel.app/api/pin/?username=dhanu0510&repo=Skin-Disease-Detection">
-
+</a>
 
 
 ---
