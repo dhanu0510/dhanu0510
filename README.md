@@ -8,11 +8,18 @@
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-<br />
 
+## 🙋‍♂️ About Me
 
+- 🌱 I’m currently learning **Deep Learning using Tensorflow and Keras**
 
-### 🚀 Languages and Tools:
+- 👯 I’m looking to collaborate on **OpenSource Projects**
+
+- 👨‍💻 All of my projects are available at **(https://github.com/dhanu0510)**
+
+- 📫 How to reach me **dhananjaypatel.official@gmail.com**
+
+## 🚀 Languages and Tools:
 
 <p align="left"> 
     <a href="https://www.python.org" target="_blank"> 
