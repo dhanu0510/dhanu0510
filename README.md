@@ -23,6 +23,15 @@
 <br />
 <br />
 
+---
+
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Dhananjay's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Dhanu0510&show_icons=true&hide_border=true" />
+
+</details>
 
 [githubDhanu]: https://www.github.com/dhanu0510
 [linkedin]: https://www.linkedin.com/in/dhanu0510/
