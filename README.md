@@ -2,9 +2,6 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Dhananjay</h1>
 
-- 🔭 I’m currently working on 'MACHINE LEARNING'
-- 🌱 I’m currently learning 'DEEP LEARNING(Tensorflow)'
-
 
 
 ### Connect with me:
@@ -64,7 +61,7 @@
 
 ---
 
-<summary>:zap: GitHub Stats</summary>
+## 📊 My Github Stats
 
 <p align="center">
     <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
@@ -72,6 +69,13 @@
     </a>
 </p>
 
+<br/>
+
+<a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Dhananjay Patel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dhanu0510&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+
+<a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Dhananjay Patel's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanu0510&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+
+<br/>
 
 [githubdhanu]: https://www.github.com/dhanu0510
 [linkedin]: https://www.linkedin.com/in/dhanu0510/
