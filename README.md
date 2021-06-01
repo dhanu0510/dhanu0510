@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **(https://github.com/dhanu0510)**
+- 👨‍💻 All of my projects are available at **[github]**
 
 - 📫 How to reach me **dhananjaypatel.official@gmail.com**
 
@@ -86,3 +86,4 @@
 
 [githubdhanu]: https://www.github.com/dhanu0510
 [linkedin]: https://www.linkedin.com/in/dhanu0510/
+[github]: https://www.github.com/dhanu0510/
