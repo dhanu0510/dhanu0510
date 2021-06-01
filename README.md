@@ -54,6 +54,14 @@
 
 ---
 
+<summary> Top repo </summary>
+
+<img src = "https://github-readme-stats.vercel.app/api/pin/?username=dhanu0510&repo=Skin-Disease-Detection">
+
+
+
+---
+
 <summary>:zap: GitHub Stats</summary>
 
 <img src = "https://github-readme-stats.vercel.app/api?username=dhanu0510&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
