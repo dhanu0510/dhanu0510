@@ -88,5 +88,5 @@
 
 [githubdhanu]: https://www.github.com/dhanu0510
 [linkedin]: https://www.linkedin.com/in/dhanu0510/
-[github]: https://www.github.com/dhanu0510/
+[github]: https://github.com/dhanu0510?tab=repositories
 [email]: dhananjaypatel.official@gmail.com
