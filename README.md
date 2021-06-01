@@ -53,6 +53,14 @@
 
 ---
 
+<summary> Top repo </summary>
+<a href = "https://www.github.com/dhanu0510/Skin-Disease-Detection"> 
+<img src = "https://github-readme-stats.vercel.app/api/pin/?username=dhanu0510&repo=Skin-Disease-Detection">
+</a>
+
+
+---
+
 <p align="center">
     <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Dhananjay Patel's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=dhanu0510&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
@@ -64,9 +72,9 @@
 
 <br/>
 
-<a href="https://github.com/SubhamRaoniar28/github-readme-stats" style="float:left;"><img alt="Dhananjay Patel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dhanu0510&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/SubhamRaoniar28/github-readme-stats" style="float:left; width:65%;"><img alt="Dhananjay Patel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dhanu0510&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
-<a href="https://github.com/SubhamRaoniar28/github-readme-stats" style="float:right;"><img alt="Dhananjay Patel's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanu0510&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/SubhamRaoniar28/github-readme-stats" style="float:right; width:35%;"><img alt="Dhananjay Patel's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanu0510&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 <br/>
 
