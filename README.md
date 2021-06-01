@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on 'MACHINE LEARNING'
 - 🌱 I’m currently learning 'DEEP LEARNING(Tensorflow)'
 
----
+
 
 ### Connect with me:
 
@@ -11,7 +11,7 @@
 
 <br />
 
----
+
 
 ### Languages and Tools:
 
@@ -54,14 +54,13 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+<summary>:zap: GitHub Stats</summary>
 
 <img src = "https://github-readme-stats.vercel.app/api?username=dhanu0510&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=dhanu0510">
 
 
 
-</details>
 
 [githubdhanu]: https://www.github.com/dhanu0510
 [linkedin]: https://www.linkedin.com/in/dhanu0510/
