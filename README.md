@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at **[github]**
 
-- 📫 How to reach me **[email]**
+- 📫 How to reach me <a href="mailto:dhananjaypatel.official@gmail.com">Send Email</a>
 
 ## Connect with me:
 <p align="left">
