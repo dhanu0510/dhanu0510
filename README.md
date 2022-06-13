@@ -1,14 +1,12 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<div style="position:relative; height : 150px">
+<a href="#"><img width="100%" height="auto" src="./banner.png" height="175px"/></a>
+<img width="100" height ="100" style = "object-fit:cover; border-radius:100%;border:2px solid #fff; position:absolute;left:20%;top:20%;transform:translate(-50%)" src="./dp.png"/>
+</div>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height = "30px">, I'm Dhananjay</h1>
 <h3 align="center">I'm a Machine Learning Engineer and Web Developer.</h3>
 
-
 [![Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdhanu0510&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=VIEWS&edge_flat=false)](https://hits.seeyoufarm.com)
-
-
-
-
 
 ## 🙋‍♂️ About me
 
@@ -22,8 +20,8 @@
 
 - <button style = "color:white;background:#34eb34; border-radius:5px;"><a href = "https://github.com/dhanu0510/dhanu0510/blob/main/Dhananjaykumar%20Patel.pdf" style = "text-decoration: none;color = white;">Resume</a></button>
 
-
 ## Connect with me:
+
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/dhanu0510/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
@@ -69,7 +67,6 @@
 <br />
 <br />
 
-
 ---
 
 <p align="center">
@@ -80,16 +77,14 @@
 
 ## 📊 My Github Stats
 
-
-<br/>
-
-<a href="https://github.com/dhanu0510"><img alt="Dhananjay Patel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dhanu0510&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>   <a href="https://github.com/dhanu0510"><img alt="Dhananjay Patel's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanu0510&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-
-<br/>
-<br/>
-
 <a href="https://github.com/dhanu0510"><img alt="Dhananjay Patel's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=dhanu0510&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
+<br/>
+
+<a href="https://github.com/dhanu0510"><img alt="Dhananjay Patel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dhanu0510&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a> <a href="https://github.com/dhanu0510"><img alt="Dhananjay Patel's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanu0510&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+
+<br/>
+<br/>
 
 <br/>
 
