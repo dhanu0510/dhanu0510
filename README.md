@@ -1,7 +1,4 @@
-<div style="position:relative; height : 150px">
 <a href="#"><img width="100%" height="auto" src="./banner.png" height="175px"/></a>
-<img width="100" height ="100" style = "object-fit:cover; border-radius:100%;border:2px solid #fff; position:absolute;left:20%;top:20%;transform:translate(-50%)" src="./dp.png"/>
-</div>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height = "30px">, I'm Dhananjay</h1>
 <h3 align="center">I'm a Machine Learning Engineer and Web Developer.</h3>
