@@ -7,8 +7,6 @@
 
 ## 🙋‍♂️ About me
 
-- 🌱 I’m currently learning **Deep Learning using Tensorflow and Keras**
-
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 👨‍💻 All of my projects are available at **[github]**
