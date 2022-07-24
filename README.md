@@ -5,7 +5,9 @@
 
 [![Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdhanu0510&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=VIEWS&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhanu0510&title=Stars,Followers" alt="dhanu0510" /></a> </p>
+
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhanu0510&title=Joined2020,Commits,Stars,Followers,Issues,PullRequest&theme=nord" alt="dhanu0510" /></a> </p>
 
 ## 🙋‍♂️ About me
 
