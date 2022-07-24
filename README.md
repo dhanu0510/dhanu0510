@@ -7,7 +7,7 @@
 
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhanu0510&title=Joined2020,Commits,Stars,Followers,Issues,PullRequest&theme=nord" alt="dhanu0510" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhanu0510&title=Joined2020,Commits,Stars,Followers,Issues,PullRequest&theme=nord&margin-w=15" alt="dhanu0510" /></a> </p>
 
 ## 🙋‍♂️ About me
 
