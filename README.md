@@ -23,7 +23,7 @@
 
 </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhanu0510" alt="dhanu0510" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhanu0510&no-bg=true" alt="dhanu0510" /></a> </p>
 
 <h3>FrontEnd:</h3>
 
